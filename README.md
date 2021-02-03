@@ -20,7 +20,7 @@ The code works perfectly on the QASM simulator with a 94% accuracy...
 
 ![Real device result](real%20devide%20result.png)  
 
-This is not fault of the code, but a hardware issue as our current quantum devices have limited capabilities.  
+This is not fault of the code, but instead it's a hardware issue as our current quantum devices have limited capabilities.  
   
   
 **Resources I used**  
