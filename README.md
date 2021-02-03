@@ -6,8 +6,9 @@ This is my implementation of the Grover search algorithm on Qiskit.
 
 My presentation on how the algorithm works: [Using a Quantum Computer to Find Good Luck](https://www.youtube.com/watch?v=14jMBpbLzBg)  
 
+  
 
-**Note**  
+**Note:**  
 
 The code works perfectly on the QASM simulator with a 94% accuracy...
 
@@ -18,6 +19,8 @@ The code works perfectly on the QASM simulator with a 94% accuracy...
 ...but fails on the real IBM quantum computer due to decoherence.  
 
 ![Real device result](real%20devide%20result.png)  
+
+This is not fault of the code, but a hardware issue as our current quantum devices have limited capabilities.  
   
   
 **Resources I used**  
