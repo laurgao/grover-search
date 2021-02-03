@@ -1,4 +1,6 @@
-# Grover's Search Algorithm
+# Grover's Search Algorithm  
+
+![Image of the circuit](Grover's%20Search%20Algorithm%202.0%20with%20tordles.png)
   
 This is my implementation of the Grover search algorithm on Qiskit.  
 
